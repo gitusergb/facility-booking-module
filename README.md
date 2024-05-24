@@ -98,7 +98,12 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## Contact
 
-For any questions or suggestions, please contact [g4ur131@gmail.com].
+For any questions or suggestions, please contact 
+
+ <a href="mailto:g4ur131@gmail.com">
+    <img align="left" alt="GauriB | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  </a>
+
 
 
 <!-- # Getting Started with Create React App
